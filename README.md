@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://media.licdn.com/dms/image/v2/D5616AQFwCdg0uqt-1g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1725386366266?e=1737590400&v=beta&t=n2o4xGU60IROq2bW1nwDlrTCJHErQ-1KnPx20Spvoog"> </div>
 <h3 align="center">A passionate Machine Learning Engineer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithija200ok&label=Profile%20views&color=0e75b6&style=flat" alt="sithija200ok" /> </p>
 
