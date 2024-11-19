@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sithija Theekshana</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Sri Lanka</h3>
+<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithija200ok&label=Profile%20views&color=0e75b6&style=flat" alt="sithija200ok" /> </p>
 
