@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Machine Learning Engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithija200ok&label=Profile%20views&color=0e75b6&style=flat" alt="sithija200ok" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5603AQHSqhXHwpZzpw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732734938368?e=1738195200&v=beta&t=JZYXpy99kbjURn1yUUdGFM1z6YrG28qN7wktTKsvBVo" alt="sithija200ok" /> </p>
 
 - 🌱 I’m currently learning **BSc Computer Science And Information Technology.**
 
