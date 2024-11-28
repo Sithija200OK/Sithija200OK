@@ -1,14 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .banner {
+            position: relative;
+            text-align: center;
+        }
+
+        .banner img {
+            width: 100%;
+            height: auto;
+        }
+
+        .profile-pic {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 4px solid white;
+        }
+
+        h1 {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Sithija Theekshana</h1>
 
-<div align="center"> 
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHg-_TAVePKGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732784766211?e=1738195200&v=beta&t=2-LwG0dSulJQEHpSRoQEP3qMaF0BHcmSDXHsEoCOMFE" alt="Background Image">
+<div class="banner">
+    <img src="https://media.licdn.com/dms/image/v2/D5616AQHg-_TAVePKGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732784766211?e=1738195200&v=beta&t=2-LwG0dSulJQEHpSRoQEP3qMaF0BHcmSDXHsEoCOMFE" alt="Background Image">
+    <img class="profile-pic" src="https://media.licdn.com/dms/image/v2/D5603AQHSqhXHwpZzpw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732734938368?e=1738195200&v=beta&t=JZYXpy99kbjURn1yUUdGFM1z6YrG28qN7wktTKsvBVo" alt="Profile Picture">
 </div>
+
 <h3 align="center">A passionate Machine Learning Engineer from Sri Lanka</h3>
+
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> 
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQHSqhXHwpZzpw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732734938368?e=1738195200&v=beta&t=JZYXpy99kbjURn1yUUdGFM1z6YrG28qN7wktTKsvBVo" alt="Profile Picture" width="100" /> 
-</p>
+<p align="left"> </p>
 
 - 🌱 I’m currently learning **BSc Computer Science And Information Technology.**
 
