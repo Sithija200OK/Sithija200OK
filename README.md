@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .banner {
-            position: relative;
-            text-align: center;
-        }
-
-        .banner img {
-            width: 100%;
-            height: auto;
-        }
-
-        .profile-pic {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 4px solid white;
-        }
-
-        h1 {
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-
 <h1 align="center">Hi 👋, I'm Sithija Theekshana</h1>
 
 <div class="banner">
