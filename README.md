@@ -2,7 +2,7 @@
 
 <div class="banner">
     <img src="https://media.licdn.com/dms/image/v2/D5616AQHg-_TAVePKGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732784766211?e=1738195200&v=beta&t=2-LwG0dSulJQEHpSRoQEP3qMaF0BHcmSDXHsEoCOMFE" alt="Background Image">
-    <img class="profile-pic" src="https://media.licdn.com/dms/image/v2/D5603AQHSqhXHwpZzpw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732734938368?e=1738195200&v=beta&t=JZYXpy99kbjURn1yUUdGFM1z6YrG28qN7wktTKsvBVo" alt="Profile Picture">
+
 </div>
 
 <h3 align="center">A passionate Machine Learning Engineer from Sri Lanka</h3>
